@@ -1,4 +1,4 @@
 // Write your code in this file!
 const currentUser = "Me";
 
-const welcomeMessage = `Welcome to Flatbook, ${current_user}`;
+const welcomeMessage = `Welcome to Flatbook, ${currentUser}`;
